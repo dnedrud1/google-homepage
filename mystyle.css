@@ -14,6 +14,10 @@ a, a:visited {
   text-decoration:underline;
 }
 
+#f li:hover {
+  text-decoration:none;
+}
+
 #Gimage {
   margin:auto;
   width:269px;
@@ -48,7 +52,7 @@ a, a:visited {
   border: 1px solid #D0D0D0;
   border-radius: 3px;
   background-color: #F5F5F5;
-  height:30x;
+  height:30px;
   width:95px;
 }
 
@@ -105,5 +109,14 @@ li {
 
 #toplist li {
   font-size:14px;
+}
+
+#signin {
+  background-color:#3385FF;
+  margin-top:-5px;
+  color:#ffffff;
+  font-weight:bold;
+  padding:7px;
+  border-radius:3px;
 }
 

@@ -9,15 +9,15 @@
 
 <div id="section1">
 	<div id="toplist">
+		<ul class="topright" id="f">
+		<li><a href="#"><div id="signin">Sign In</div></a></li>
+		</ul>
+		<a class="topright" href="#"><img src="http://i57.tinypic.com/2h6ultx.png"></a>	
 		<ul class="topright">
 		<li><a href="#">+You</a></li>
 		<li><a href="#">Gmail</a></li>
 		<li><a href="#">Images</a></li>
 		</ul>
-		<a class="topright" href="#"><img src="http://i57.tinypic.com/2h6ultx.png"></a>
-		<ul class="topright">
-		<li><a href="#">Sign In</a></li>
-		</ul>		
 	</div>
 </div>
 
