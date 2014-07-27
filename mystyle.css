@@ -1,0 +1,53 @@
+body {
+  height:100%;
+  width:100%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#Gimage {
+  margin:auto;
+  width:269px;
+}
+
+#controls {
+  margin:auto;
+  width:234px;
+}
+
+.gbqfif {
+  margin:auto;
+  width:575px;
+  display:block;
+  border: 1px solid #DADAC8;
+  height: 30px;
+}
+
+.gbqfif:hover {
+  border: 1px solid #AEAEA0;
+}
+
+.buttons {
+  font-size:11px;
+  text-align:center;
+  color:#404042;
+}
+
+.buttonstyle {
+  float:left;
+  margin:10px;
+  border: 1px solid #D0D0D0;
+  border-radius: 3px;
+  background-color: #F5F5F5;
+  height:30x;
+  width:95px;
+}
+
+.buttonstyle:hover {
+  border: 1px solid #929292;
+}
+
+
